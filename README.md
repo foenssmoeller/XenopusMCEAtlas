@@ -4,7 +4,6 @@ This repository contain analysis notebooks and scripts of Single cell time-resol
 
 
 ## Citation
-We are pleased to share that this work is now published.\
+Unpublished work.\
 [**Single cell time-resolved profiling of developing Xenopus mucociliary epithelium**]()\
-Authors\
-Journal and DOI
+
